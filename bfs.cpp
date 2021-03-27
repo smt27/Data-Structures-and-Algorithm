@@ -1,4 +1,4 @@
-//BFS graph
+//BFS graph using matrix
 
 #include<iostream>
 using namespace std;
@@ -38,7 +38,7 @@ BFS(G,s)
 
 
 
-//BFS graph
+//BFS graph using list
 
 #include<iostream>
 using namespace std;
